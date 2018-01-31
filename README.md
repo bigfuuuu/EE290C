@@ -1,2 +1,2 @@
 # EE290C
-For 2018WIN EE290C class
+IoT chip design (2018WIN)
